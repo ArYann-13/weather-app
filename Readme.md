@@ -2,7 +2,7 @@
 
 A sleek and responsive Weather App built using React and Tailwind CSS, providing real-time weather data for any location around the globe.
 
-![Weather App Screenshot](assets/weather-app-ss.png)
+![Weather App Screenshot](./public/assets/weather-app-ss.png)
 
 ---
 
