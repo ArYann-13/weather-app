@@ -15,7 +15,7 @@ A sleek and responsive Weather App built using React and Tailwind CSS, providing
 - 
 
 ---
-
+![Live Demo](https://weather-app-aryanverma-13.vercel.app/)
 ## 🛠️ Tech Stack
 
 - ⚛️ **React.js**
